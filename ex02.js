@@ -19,5 +19,6 @@
  function editArrayAt(arr, position, value){
     
     arr[position] = value;
-
+    
+    return arr;
 }
