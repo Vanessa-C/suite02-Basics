@@ -13,3 +13,12 @@
         editStringAt("toto", 3, "a"); // "tota";
 
 */
+function editStringAt(str, postion, char){
+
+    str[position] = char;
+    
+
+}
+
+/*je n'y arrive plus... */
+
